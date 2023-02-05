@@ -1,0 +1,26 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p { margin:20px; }
+.filmesHead {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.filmesHead i {
+    float: right;
+}
+.filmesText span {
+    color: darkgoldenrod;
+}
+.livros {
+    margin-bottom: 20px;
+}
+img {
+    width: 50%;
+}
+#contato iframe{
+width: 100%;
+}
